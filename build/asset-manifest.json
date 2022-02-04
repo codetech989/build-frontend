@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vitaminDeckCustomerEnd/build/static/css/main.04a6159c.chunk.css",
+    "main.js": "/vitaminDeckCustomerEnd/build/static/js/main.81398731.chunk.js",
+    "main.js.map": "/vitaminDeckCustomerEnd/build/static/js/main.81398731.chunk.js.map",
+    "runtime-main.js": "/vitaminDeckCustomerEnd/build/static/js/runtime-main.04c42a51.js",
+    "runtime-main.js.map": "/vitaminDeckCustomerEnd/build/static/js/runtime-main.04c42a51.js.map",
+    "static/css/2.90a1d022.chunk.css": "/vitaminDeckCustomerEnd/build/static/css/2.90a1d022.chunk.css",
+    "static/js/2.89bdf685.chunk.js": "/vitaminDeckCustomerEnd/build/static/js/2.89bdf685.chunk.js",
+    "static/js/2.89bdf685.chunk.js.map": "/vitaminDeckCustomerEnd/build/static/js/2.89bdf685.chunk.js.map",
+    "static/js/3.f6d32444.chunk.js": "/vitaminDeckCustomerEnd/build/static/js/3.f6d32444.chunk.js",
+    "static/js/3.f6d32444.chunk.js.map": "/vitaminDeckCustomerEnd/build/static/js/3.f6d32444.chunk.js.map",
+    "index.html": "/vitaminDeckCustomerEnd/build/index.html",
+    "static/css/2.90a1d022.chunk.css.map": "/vitaminDeckCustomerEnd/build/static/css/2.90a1d022.chunk.css.map",
+    "static/css/main.04a6159c.chunk.css.map": "/vitaminDeckCustomerEnd/build/static/css/main.04a6159c.chunk.css.map",
+    "static/js/2.89bdf685.chunk.js.LICENSE.txt": "/vitaminDeckCustomerEnd/build/static/js/2.89bdf685.chunk.js.LICENSE.txt",
+    "static/media/cart.f2dae182.png": "/vitaminDeckCustomerEnd/build/static/media/cart.f2dae182.png",
+    "static/media/product1.666ee844.jpg": "/vitaminDeckCustomerEnd/build/static/media/product1.666ee844.jpg",
+    "static/media/styles.css": "/vitaminDeckCustomerEnd/build/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04c42a51.js",
+    "static/css/2.90a1d022.chunk.css",
+    "static/js/2.89bdf685.chunk.js",
+    "static/css/main.04a6159c.chunk.css",
+    "static/js/main.81398731.chunk.js"
+  ]
+}
